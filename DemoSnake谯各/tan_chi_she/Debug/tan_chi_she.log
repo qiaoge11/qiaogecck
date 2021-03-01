@@ -1,0 +1,5 @@
+﻿  Game.cpp
+  demoSnake.cpp
+  正在生成代码...
+f:\新建文件夹qq\demosnake (1)\demosnake谯各\tan_chi_she\game.cpp(197): warning C4715: “CGame::run”: 不是所有的控件路径都返回值
+  tan_chi_she.vcxproj -> F:\新建文件夹QQ\DemoSnake (1)\DemoSnake谯各\Debug\tan_chi_she.exe
